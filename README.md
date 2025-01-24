@@ -19,3 +19,5 @@ I am a beginner project manager <img src="https://media.giphy.com/media/WUlplcMp
   <br>
 - :telescope: I'm studying in college to become a programmer
   </br>
+  <br>
+  - My projects
